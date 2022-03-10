@@ -1,2 +1,2 @@
 # ZeroRP
-RP related Plugin.
+Roleplay bezogene änderungen. z.b.: XP Books.

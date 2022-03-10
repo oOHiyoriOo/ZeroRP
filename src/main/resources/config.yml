@@ -1,0 +1,9 @@
+ver: 1.1
+# Percantage of money we take.
+wealth_tax_pc: 0.01
+
+# can be either "top" or "amount"
+# top get's the amount number of person and trying to use the average as amount.
+# amount just checks for the amount and takes the wealth_tax_pc, until it's und the amount.
+wealth_mode: top
+wealth_amount: 3

@@ -1,0 +1,14 @@
+name: ZeroRP
+version: '${project.version}'
+main: gg.discord.zerotwo.zerorp.Main
+api-version: 1.18
+prefix: ZeroRP
+depend: [ Essentials,PlayerParticles ]
+authors: [ 210428907386699777 ]
+description: RP Related Stuff.
+website: https://discordapp.com/users/210428907386699777
+commands:
+  blood:
+    description: makes a player bloody.
+  ride:
+    description: ride a player.
